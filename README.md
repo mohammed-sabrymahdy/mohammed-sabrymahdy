@@ -22,5 +22,5 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-000000?style=flat&logo=bootstrap)
-![tailwind](https://img.shields.io/badge/-tailwind-000000?style=flat&logo=tailwind)
+![tailwind](https://img.shields.io/badge/-tailwind-000000?style=flat&logo=tailwindcss)
 
