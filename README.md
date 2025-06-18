@@ -23,4 +23,6 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-000000?style=flat&logo=bootstrap)
 ![tailwind](https://img.shields.io/badge/-tailwind-000000?style=flat&logo=tailwindcss)
+![networking](https://img.shields.io/badge/-networking-000000?style=flat&logo=tailwindcss)
+
 
