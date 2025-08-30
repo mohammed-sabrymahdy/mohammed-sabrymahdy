@@ -63,9 +63,9 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 
 ### 🌐 &nbsp;Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sabry-a9b3b5325/)  
+[![Gmail](mohamedsabry71230432@gmail.com
+)]()  
 
 ---
 
