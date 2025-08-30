@@ -64,8 +64,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ### 🌐 &nbsp;Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sabry-a9b3b5325/)  
-[![Gmail](mohamedsabry71230432@gmail.com
-)]()  
+
 
 ---
 
