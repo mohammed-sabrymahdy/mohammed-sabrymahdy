@@ -16,13 +16,18 @@ I'm a software developer with a strong passion for creating visually appealing a
 
 
 ### 🛠 &nbsp;Tools that I work with
+### 🛠 &nbsp;Tools that I work with
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-000000?style=flat&logo=bootstrap)
-![tailwind](https://img.shields.io/badge/-tailwind-000000?style=flat&logo=tailwindcss)
-![networking](https://img.shields.io/badge/-networking-000000?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss)
+![NextJs](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![OOP](https://img.shields.io/badge/-OOP-000000?style=flat&logo=java)
+![Algorithms](https://img.shields.io/badge/-Algorithms-000000?style=flat&logo=python)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-000000?style=flat&logo=c)
+![Networking](https://img.shields.io/badge/-Networking-000000?style=flat&logo=cisco)
 
 
