@@ -34,6 +34,8 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Databases](https://img.shields.io/badge/-Databases-4479A1?style=flat&logo=mysql&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP-FF6F00?style=flat&logo=java&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-3776AB?style=flat&logo=python&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-00599C?style=flat&logo=c&logoColor=white)
