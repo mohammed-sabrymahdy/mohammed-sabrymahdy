@@ -58,7 +58,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 
 ### 📂 &nbsp;Featured Projects  
 - 🔗 [LinkedIn Clone](https://github.com/your-linkedin-clone)  
-- 🛒 [E-Commerce Website](https://github.com/your-ecommerce)  
+- 🛒 [E-Commerce Website](https://eccomerce-d66c7.web.app/)
 - 📊 [Dashboard App](https://github.com/your-dashboard)  
 
 ---
